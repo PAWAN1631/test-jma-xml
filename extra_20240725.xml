@@ -3,7 +3,7 @@
   <title>高頻度（随時）</title>
   <subtitle>JMAXML publishing feed</subtitle>
   <updated>2024-07-25T14:16:50+09:00</updated>
-  <id>https://www.data.jma.go.jp/developer/xml/feed/extra.xml#short_r11</id>
+  <id>https://www.data.jma.go.jp/developer/xml/feed/extra.xml#short_r1</id>
   <link rel="related" href="https://www.jma.go.jp/"/>
   <link rel="self" href="https://www.data.jma.go.jp/developer/xml/feed/extra.xml"/>
   <link rel="hub" href="http://alert-hub.appspot.com/"/>
@@ -13,7 +13,7 @@
 ]]></rights>
   <entry>
     <title>気象特別警報・警報・注意報</title>
-    <id>https://www.data.jma.go.jp/developer/xml/data/20240725051641_0_VPWW53_260000.xml#r11</id>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240725051641_0_VPWW53_260000.xml#r1</id>
     <updated>2024-07-25T05:16:40Z</updated>
     <author>
       <name>京都地方気象台</name>
@@ -23,7 +23,7 @@
   </entry>
   <entry>
     <title>気象警報・注意報（Ｈ２７）</title>
-    <id>https://www.data.jma.go.jp/developer/xml/data/20240725051641_0_VPWW54_260000.xml#r11</id>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240725051641_0_VPWW54_260000.xml#r1</id>
     <updated>2024-07-25T05:16:40Z</updated>
     <author>
       <name>京都地方気象台</name>
