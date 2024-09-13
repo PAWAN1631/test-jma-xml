@@ -1,1354 +1,998 @@
-This XML file does not appear to have any style information associated with it. The document tree is shown below.
-<feed xmlns="http://www.w3.org/2005/Atom" lang="ja">
-<script/>
-<title>高頻度（随時）</title>
-<subtitle>JMAXML publishing feed</subtitle>
-<updated>2024-09-13T15:42:27+09:00</updated>
-<id>https://www.data.jma.go.jp/developer/xml/feed/extra.xml#short_1726209747</id>
-<link rel="related" href="https://www.jma.go.jp/"/>
-<link rel="self" href="https://www.data.jma.go.jp/developer/xml/feed/extra.xml"/>
-<link rel="hub" href="http://alert-hub.appspot.com/"/>
-<rights type="html">
-<![CDATA[ <a href="https://www.jma.go.jp/jma/kishou/info/coment.html">利用規約</a>, <a href="https://www.jma.go.jp/jma/en/copyright.html">Terms of Use</a> ]]>
-</rights>
-<entry>
-<title>府県気象情報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913064214_0_VPFJ50_100000.xml</id>
-<updated>2024-09-13T06:42:13Z</updated>
-<author>
-<name>前橋地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913064214_0_VPFJ50_100000.xml"/>
-<content type="text">【大雨と雷及び降ひょうに関する群馬県気象情報】群馬県では、１４日明け方にかけて土砂災害、低い土地の浸水、河川の増水に注意・警戒し、落雷、突風、降ひょうに注意してください。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913064020_0_VPWW53_013000.xml</id>
-<updated>2024-09-13T06:40:19Z</updated>
-<author>
-<name>網走地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913064020_0_VPWW53_013000.xml"/>
-<content type="text">【網走・北見・紋別地方気象警報・注意報】網走、紋別地方では、１３日夜のはじめ頃まで強風に注意してください。網走、北見、紋別地方では、１３日夜遅くから１４日昼前まで濃霧による視程障害に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913064020_0_VPWW54_013000.xml</id>
-<updated>2024-09-13T06:40:19Z</updated>
-<author>
-<name>網走地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913064020_0_VPWW54_013000.xml"/>
-<content type="text">【網走・北見・紋別地方気象警報・注意報】網走、紋別地方では、１３日夜のはじめ頃まで強風に注意してください。網走、北見、紋別地方では、１３日夜遅くから１４日昼前まで濃霧による視程障害に注意してください。</content>
-</entry>
-<entry>
-<title>府県気象情報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913063840_0_VPFJ50_200000.xml</id>
-<updated>2024-09-13T06:38:39Z</updated>
-<author>
-<name>長野地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913063840_0_VPFJ50_200000.xml"/>
-<content type="text">【大雨と雷及び降ひょうに関する長野県気象情報】長野県では、１３日夜遅くにかけて、土砂災害、低い土地の浸水、河川の増水に十分注意してください。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913063308_0_VPWW53_011000.xml</id>
-<updated>2024-09-13T06:33:07Z</updated>
-<author>
-<name>稚内地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913063308_0_VPWW53_011000.xml"/>
-<content type="text">【宗谷地方気象警報・注意報】宗谷地方では、１３日夜遅くから１４日昼前まで濃霧による視程障害に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913063308_0_VPWW54_011000.xml</id>
-<updated>2024-09-13T06:33:07Z</updated>
-<author>
-<name>稚内地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913063308_0_VPWW54_011000.xml"/>
-<content type="text">【宗谷地方気象警報・注意報】宗谷地方では、１３日夜遅くから１４日昼前まで濃霧による視程障害に注意してください。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913061951_0_VPWW53_170000.xml</id>
-<updated>2024-09-13T06:19:50Z</updated>
-<author>
-<name>金沢地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913061951_0_VPWW53_170000.xml"/>
-<content type="text">【石川県気象警報・注意報】能登では、１３日夜遅くから１４日昼過ぎまで高潮に注意してください。加賀では１３日夜のはじめ頃まで、能登では１３日夜遅くまで、急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913061951_0_VPWW54_170000.xml</id>
-<updated>2024-09-13T06:19:50Z</updated>
-<author>
-<name>金沢地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913061951_0_VPWW54_170000.xml"/>
-<content type="text">【石川県気象警報・注意報】能登では、１３日夜遅くから１４日昼過ぎまで高潮に注意してください。加賀では１３日夜のはじめ頃まで、能登では１３日夜遅くまで、急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913061736_0_VPWW53_160000.xml</id>
-<updated>2024-09-13T06:17:35Z</updated>
-<author>
-<name>富山地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913061736_0_VPWW53_160000.xml"/>
-<content type="text">【富山県気象警報・注意報】東部では、１３日夜のはじめ頃まで低い土地の浸水や河川の増水に注意してください。富山県では、１３日夜のはじめ頃まで落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913061736_0_VPWW54_160000.xml</id>
-<updated>2024-09-13T06:17:35Z</updated>
-<author>
-<name>富山地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913061736_0_VPWW54_160000.xml"/>
-<content type="text">【富山県気象警報・注意報】東部では、１３日夜のはじめ頃まで低い土地の浸水や河川の増水に注意してください。富山県では、１３日夜のはじめ頃まで落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913061507_0_VPWW53_070000.xml</id>
-<updated>2024-09-13T06:15:07Z</updated>
-<author>
-<name>福島地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913061507_0_VPWW53_070000.xml"/>
-<content type="text">【福島県気象警報・注意報】中通り、浜通りでは、１３日夜遅くまで土砂災害に注意してください。浜通りでは、１３日夜遅くまで河川の増水に注意してください。福島県では、１３日夜遅くまで落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913061507_0_VPWW54_070000.xml</id>
-<updated>2024-09-13T06:15:07Z</updated>
-<author>
-<name>福島地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913061507_0_VPWW54_070000.xml"/>
-<content type="text">【福島県気象警報・注意報】中通り、浜通りでは、１３日夜遅くまで土砂災害に注意してください。浜通りでは、１３日夜遅くまで河川の増水に注意してください。福島県では、１３日夜遅くまで落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913055620_0_VPWW53_320000.xml</id>
-<updated>2024-09-13T05:56:19Z</updated>
-<author>
-<name>松江地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913055620_0_VPWW53_320000.xml"/>
-<content type="text">【島根県気象警報・注意報】東部では、１３日夜遅くまで土砂災害に、１３日夜のはじめ頃まで低い土地の浸水に注意してください。東部、西部では、１３日夜遅くまで落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913055620_0_VPWW54_320000.xml</id>
-<updated>2024-09-13T05:56:19Z</updated>
-<author>
-<name>松江地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913055620_0_VPWW54_320000.xml"/>
-<content type="text">【島根県気象警報・注意報】東部では、１３日夜遅くまで土砂災害に、１３日夜のはじめ頃まで低い土地の浸水に注意してください。東部、西部では、１３日夜遅くまで落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913054327_0_VPWW54_070000.xml</id>
-<updated>2024-09-13T05:43:27Z</updated>
-<author>
-<name>福島地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913054327_0_VPWW54_070000.xml"/>
-<content type="text">【福島県気象警報・注意報】浜通りでは、１３日夜遅くまで土砂災害や河川の増水に注意してください。福島県では、１３日夜遅くまで落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913054328_0_VPWW53_070000.xml</id>
-<updated>2024-09-13T05:43:27Z</updated>
-<author>
-<name>福島地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913054328_0_VPWW53_070000.xml"/>
-<content type="text">【福島県気象警報・注意報】浜通りでは、１３日夜遅くまで土砂災害や河川の増水に注意してください。福島県では、１３日夜遅くまで落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913054208_0_VPWW53_160000.xml</id>
-<updated>2024-09-13T05:42:07Z</updated>
-<author>
-<name>富山地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913054208_0_VPWW53_160000.xml"/>
-<content type="text">【富山県気象警報・注意報】東部では、１３日夜のはじめ頃まで低い土地の浸水や河川の増水に注意してください。富山県では、１３日夜のはじめ頃まで落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913054208_0_VPWW54_160000.xml</id>
-<updated>2024-09-13T05:42:07Z</updated>
-<author>
-<name>富山地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913054208_0_VPWW54_160000.xml"/>
-<content type="text">【富山県気象警報・注意報】東部では、１３日夜のはじめ頃まで低い土地の浸水や河川の増水に注意してください。富山県では、１３日夜のはじめ頃まで落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913053504_0_VPWW53_260000.xml</id>
-<updated>2024-09-13T05:35:03Z</updated>
-<author>
-<name>京都地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913053504_0_VPWW53_260000.xml"/>
-<content type="text">【京都府気象警報・注意報】北部では、１３日夜のはじめ頃まで低い土地の浸水に注意してください。京都府では、１３日夜遅くまで落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913053504_0_VPWW54_260000.xml</id>
-<updated>2024-09-13T05:35:03Z</updated>
-<author>
-<name>京都地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913053504_0_VPWW54_260000.xml"/>
-<content type="text">【京都府気象警報・注意報】北部では、１３日夜のはじめ頃まで低い土地の浸水に注意してください。京都府では、１３日夜遅くまで落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913052505_0_VPWW53_160000.xml</id>
-<updated>2024-09-13T05:25:05Z</updated>
-<author>
-<name>富山地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913052505_0_VPWW53_160000.xml"/>
-<content type="text">【富山県気象警報・注意報】東部では、１３日夜のはじめ頃まで低い土地の浸水に注意してください。富山県では、１３日夜のはじめ頃まで落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913052505_0_VPWW54_160000.xml</id>
-<updated>2024-09-13T05:25:05Z</updated>
-<author>
-<name>富山地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913052505_0_VPWW54_160000.xml"/>
-<content type="text">【富山県気象警報・注意報】東部では、１３日夜のはじめ頃まで低い土地の浸水に注意してください。富山県では、１３日夜のはじめ頃まで落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913045619_0_VPWW53_471000.xml</id>
-<updated>2024-09-13T04:56:18Z</updated>
-<author>
-<name>沖縄気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913045619_0_VPWW53_471000.xml"/>
-<content type="text">【沖縄本島地方気象警報・注意報】本島中南部では、河川の増水に注意してください。本島中南部、本島北部では、高波に注意してください。沖縄本島地方では、落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913045619_0_VPWW54_471000.xml</id>
-<updated>2024-09-13T04:56:18Z</updated>
-<author>
-<name>沖縄気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913045619_0_VPWW54_471000.xml"/>
-<content type="text">【沖縄本島地方気象警報・注意報】本島中南部では、河川の増水に注意してください。本島中南部、本島北部では、高波に注意してください。沖縄本島地方では、落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913044821_0_VPWW53_090000.xml</id>
-<updated>2024-09-13T04:48:20Z</updated>
-<author>
-<name>宇都宮地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913044821_0_VPWW53_090000.xml"/>
-<content type="text">【栃木県気象警報・注意報】栃木県では、１４日明け方まで土砂災害や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913044821_0_VPWW54_090000.xml</id>
-<updated>2024-09-13T04:48:20Z</updated>
-<author>
-<name>宇都宮地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913044821_0_VPWW54_090000.xml"/>
-<content type="text">【栃木県気象警報・注意報】栃木県では、１４日明け方まで土砂災害や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913043836_0_VPWW53_100000.xml</id>
-<updated>2024-09-13T04:38:36Z</updated>
-<author>
-<name>前橋地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913043836_0_VPWW53_100000.xml"/>
-<content type="text">【群馬県気象警報・注意報】群馬県では、１４日明け方まで土砂災害や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913043836_0_VPWW54_100000.xml</id>
-<updated>2024-09-13T04:38:36Z</updated>
-<author>
-<name>前橋地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913043836_0_VPWW54_100000.xml"/>
-<content type="text">【群馬県気象警報・注意報】群馬県では、１４日明け方まで土砂災害や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>台風解析・予報情報（３日予報）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913034105_0_VPTW40_010000.xml</id>
-<updated>2024-09-13T03:41:05Z</updated>
-<author>
-<name>気象庁</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913034105_0_VPTW40_010000.xml"/>
-<content type="text">【台風解析・予報情報】</content>
-</entry>
-<entry>
-<title>台風解析・予報情報（５日予報）（Ｈ３０）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913034105_0_VPTW60_010000.xml</id>
-<updated>2024-09-13T03:41:05Z</updated>
-<author>
-<name>気象庁</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913034105_0_VPTW60_010000.xml"/>
-<content type="text">【台風解析・予報情報】</content>
-</entry>
-<entry>
-<title>全般台風情報（定型）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913034106_0_VPTI51_010000.xml</id>
-<updated>2024-09-13T03:41:05Z</updated>
-<author>
-<name>気象庁</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913034106_0_VPTI51_010000.xml"/>
-<content type="text">【令和６年　台風第１３号に関する情報　第２１号　（位置）】　台風第１３号は、日本の南を １時間におよそ３０キロの速さで北西へ進んでいます。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913033615_0_VPWW53_100000.xml</id>
-<updated>2024-09-13T03:36:15Z</updated>
-<author>
-<name>前橋地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913033615_0_VPWW53_100000.xml"/>
-<content type="text">【群馬県気象警報・注意報】群馬県では、１４日明け方まで土砂災害や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913033615_0_VPWW54_100000.xml</id>
-<updated>2024-09-13T03:36:15Z</updated>
-<author>
-<name>前橋地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913033615_0_VPWW54_100000.xml"/>
-<content type="text">【群馬県気象警報・注意報】群馬県では、１４日明け方まで土砂災害や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>府県気象情報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913023304_0_VPFJ50_460040.xml</id>
-<updated>2024-09-13T02:33:04Z</updated>
-<author>
-<name>名瀬測候所</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913023304_0_VPFJ50_460040.xml"/>
-<content type="text">【令和６年台風第１３号に関する奄美地方（鹿児島県）気象情報】台風第１３号は、１４日夕方から夜のはじめ頃にかけて発達しながら奄美地方に最も接近する見込みです。北部と南部では１４日夕方から夜のはじめ頃にかけて暴風に厳重に警戒し、北部と南部では１４日朝から、十島村では１４日昼過ぎから、うねりを伴った高波に警戒してください。</content>
-</entry>
-<entry>
-<title>府県気象情報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913023129_0_VPFJ50_471000.xml</id>
-<updated>2024-09-13T02:31:29Z</updated>
-<author>
-<name>沖縄気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913023129_0_VPFJ50_471000.xml"/>
-<content type="text">【令和６年台風第１３号に関する沖縄本島地方気象情報】台風第１３号は、１５日にかけて発達しながら沖縄本島地方に接近する見込みです。沖縄本島地方は大荒れとなり、海上では大しけになる見込みです。暴風に厳重に警戒し、高波に警戒してください。</content>
-</entry>
-<entry>
-<title>地方気象情報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913023032_0_VPCJ50_471000.xml</id>
-<updated>2024-09-13T02:30:32Z</updated>
-<author>
-<name>沖縄気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913023032_0_VPCJ50_471000.xml"/>
-<content type="text">【令和６年台風第１３号に関する沖縄地方気象情報】台風第１３号は、１５日にかけて発達しながら沖縄地方に接近する見込みです。沖縄地方は大荒れや大しけとなる見込みです。暴風に厳重に警戒し、高波に警戒してください。</content>
-</entry>
-<entry>
-<title>全般台風情報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913022009_0_VPTI50_010000.xml</id>
-<updated>2024-09-13T02:20:09Z</updated>
-<author>
-<name>気象庁</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913022009_0_VPTI50_010000.xml"/>
-<content type="text">【令和６年　台風第１３号に関する情報　第２０号】台風第１３号は、１４日未明から朝にかけて大東島地方に接近した後、１４日夕方頃に奄美地方に最も接近する見込みです。奄美地方と沖縄地方では、猛烈な風が吹き、大しけとなる所があるでしょう。暴風に厳重に警戒し、高波に警戒してください。</content>
-</entry>
-<entry>
-<title>府県気象情報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913021506_0_VPFJ50_472000.xml</id>
-<updated>2024-09-13T02:15:05Z</updated>
-<author>
-<name>南大東島地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913021506_0_VPFJ50_472000.xml"/>
-<content type="text">【令和６年台風第１３号に関する大東島地方気象情報】台風第１３号は、１４日朝に大東島地方に最も接近する見込みです。大東島地方では１４日明け方から暴風となり、１４日未明から大しけとなる見込みです。暴風や高波に警戒してください。また、早めの台風対策が必要です。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913021446_0_VPWW53_170000.xml</id>
-<updated>2024-09-13T02:14:46Z</updated>
-<author>
-<name>金沢地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913021446_0_VPWW53_170000.xml"/>
-<content type="text">【石川県気象警報・注意報】加賀では、１３日昼過ぎから１３日夜のはじめ頃まで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913021446_0_VPWW54_170000.xml</id>
-<updated>2024-09-13T02:14:46Z</updated>
-<author>
-<name>金沢地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913021446_0_VPWW54_170000.xml"/>
-<content type="text">【石川県気象警報・注意報】加賀では、１３日昼過ぎから１３日夜のはじめ頃まで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>地方気象情報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913020800_0_VPCJ50_460100.xml</id>
-<updated>2024-09-13T02:07:59Z</updated>
-<author>
-<name>鹿児島地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913020800_0_VPCJ50_460100.xml"/>
-<content type="text">【令和６年台風第１３号に関する九州南部・奄美地方気象情報】台風第１３号は、発達しながら日本の南を北西へ進み１４日夕方頃に、奄美地方へ最も接近する見込みです。奄美地方では１４日夕方から１４日夜のはじめ頃にかけて暴風に厳重警戒し、１４日朝から１５日にかけてうねりを伴った高波に警戒してください。</content>
-</entry>
-<entry>
-<title>府県気象情報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913020025_0_VPFJ50_110000.xml</id>
-<updated>2024-09-13T02:00:25Z</updated>
-<author>
-<name>熊谷地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913020025_0_VPFJ50_110000.xml"/>
-<content type="text">【大雨と雷及び降ひょうに関する埼玉県気象情報】埼玉県では、１３日昼過ぎから１４日明け方にかけて、低い土地の浸水や河川の増水、土砂災害に注意・警戒してください。また、落雷、突風、降ひょうに注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913014504_0_VPWW54_011000.xml</id>
-<updated>2024-09-13T01:45:03Z</updated>
-<author>
-<name>稚内地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913014504_0_VPWW54_011000.xml"/>
-<content type="text">【宗谷地方気象警報・注意報】宗谷地方では、１３日夕方まで強風に注意してください。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913014504_0_VPWW53_011000.xml</id>
-<updated>2024-09-13T01:45:03Z</updated>
-<author>
-<name>稚内地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913014504_0_VPWW53_011000.xml"/>
-<content type="text">【宗谷地方気象警報・注意報】宗谷地方では、１３日夕方まで強風に注意してください。</content>
-</entry>
-<entry>
-<title>地方気象情報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913013251_0_VPCJ50_460100.xml</id>
-<updated>2024-09-13T01:32:51Z</updated>
-<author>
-<name>鹿児島地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913013251_0_VPCJ50_460100.xml"/>
-<content type="text">【令和６年台風第１３号に関する九州南部・奄美地方気象情報】台風第１３号は、発達しながら日本の南を北西へ進み１４日夕方頃に、奄美地方へ最も接近する見込みです。奄美地方では１４日夕方から１４日夜のはじめ頃にかけて暴風に厳重警戒し、１４日朝から１５日にかけてうねりを伴った高波に警戒してください。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913012310_0_VPWW53_472000.xml</id>
-<updated>2024-09-13T01:23:09Z</updated>
-<author>
-<name>南大東島地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913012310_0_VPWW53_472000.xml"/>
-<content type="text">【大東島地方気象警報・注意報】大東島地方では、高波や竜巻などの激しい突風、急な強い雨、落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913012310_0_VPWW54_472000.xml</id>
-<updated>2024-09-13T01:23:09Z</updated>
-<author>
-<name>南大東島地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913012310_0_VPWW54_472000.xml"/>
-<content type="text">【大東島地方気象警報・注意報】大東島地方では、高波や竜巻などの激しい突風、急な強い雨、落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913011219_0_VPWW53_320000.xml</id>
-<updated>2024-09-13T01:12:18Z</updated>
-<author>
-<name>松江地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913011219_0_VPWW53_320000.xml"/>
-<content type="text">【島根県気象警報・注意報】東部、西部では、１３日昼過ぎから１３日夜遅くまで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913011219_0_VPWW54_320000.xml</id>
-<updated>2024-09-13T01:12:18Z</updated>
-<author>
-<name>松江地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913011219_0_VPWW54_320000.xml"/>
-<content type="text">【島根県気象警報・注意報】東部、西部では、１３日昼過ぎから１３日夜遅くまで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913011045_0_VPWW53_080000.xml</id>
-<updated>2024-09-13T01:10:45Z</updated>
-<author>
-<name>水戸地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913011045_0_VPWW53_080000.xml"/>
-<content type="text">【茨城県気象警報・注意報】茨城県では、１３日昼過ぎから１４日昼前まで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913011045_0_VPWW54_080000.xml</id>
-<updated>2024-09-13T01:10:45Z</updated>
-<author>
-<name>水戸地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913011045_0_VPWW54_080000.xml"/>
-<content type="text">【茨城県気象警報・注意報】茨城県では、１３日昼過ぎから１４日昼前まで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913010642_0_VPWW53_310000.xml</id>
-<updated>2024-09-13T01:06:41Z</updated>
-<author>
-<name>鳥取地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913010642_0_VPWW53_310000.xml"/>
-<content type="text">【鳥取県気象警報・注意報】鳥取県では、１３日昼過ぎから１３日夜のはじめ頃まで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913010642_0_VPWW54_310000.xml</id>
-<updated>2024-09-13T01:06:41Z</updated>
-<author>
-<name>鳥取地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913010642_0_VPWW54_310000.xml"/>
-<content type="text">【鳥取県気象警報・注意報】鳥取県では、１３日昼過ぎから１３日夜のはじめ頃まで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913010506_0_VPWW53_330000.xml</id>
-<updated>2024-09-13T01:05:06Z</updated>
-<author>
-<name>岡山地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913010506_0_VPWW53_330000.xml"/>
-<content type="text">【岡山県気象警報・注意報】岡山県では、１３日昼過ぎから１３日夜遅くまで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913010506_0_VPWW54_330000.xml</id>
-<updated>2024-09-13T01:05:06Z</updated>
-<author>
-<name>岡山地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913010506_0_VPWW54_330000.xml"/>
-<content type="text">【岡山県気象警報・注意報】岡山県では、１３日昼過ぎから１３日夜遅くまで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913010413_0_VPWW53_090000.xml</id>
-<updated>2024-09-13T01:04:13Z</updated>
-<author>
-<name>宇都宮地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913010413_0_VPWW53_090000.xml"/>
-<content type="text">【栃木県気象警報・注意報】栃木県では、１３日昼過ぎから１４日明け方まで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913010413_0_VPWW54_090000.xml</id>
-<updated>2024-09-13T01:04:13Z</updated>
-<author>
-<name>宇都宮地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913010413_0_VPWW54_090000.xml"/>
-<content type="text">【栃木県気象警報・注意報】栃木県では、１３日昼過ぎから１４日明け方まで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913010348_0_VPWW53_110000.xml</id>
-<updated>2024-09-13T01:03:47Z</updated>
-<author>
-<name>熊谷地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913010348_0_VPWW53_110000.xml"/>
-<content type="text">【埼玉県気象警報・注意報】埼玉県では、１３日昼過ぎから１４日明け方まで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913010348_0_VPWW54_110000.xml</id>
-<updated>2024-09-13T01:03:47Z</updated>
-<author>
-<name>熊谷地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913010348_0_VPWW54_110000.xml"/>
-<content type="text">【埼玉県気象警報・注意報】埼玉県では、１３日昼過ぎから１４日明け方まで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913010223_0_VPWW53_340000.xml</id>
-<updated>2024-09-13T01:02:22Z</updated>
-<author>
-<name>広島地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913010223_0_VPWW53_340000.xml"/>
-<content type="text">【広島県気象警報・注意報】広島県では、１３日昼過ぎから１３日夜遅くまで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913010223_0_VPWW54_340000.xml</id>
-<updated>2024-09-13T01:02:22Z</updated>
-<author>
-<name>広島地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913010223_0_VPWW54_340000.xml"/>
-<content type="text">【広島県気象警報・注意報】広島県では、１３日昼過ぎから１３日夜遅くまで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913005709_0_VPWW53_060000.xml</id>
-<updated>2024-09-13T00:57:09Z</updated>
-<author>
-<name>山形地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913005709_0_VPWW53_060000.xml"/>
-<content type="text">【山形県気象警報・注意報】山形県では、１３日昼過ぎから１３日夜遅くまで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913005709_0_VPWW54_060000.xml</id>
-<updated>2024-09-13T00:57:09Z</updated>
-<author>
-<name>山形地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913005709_0_VPWW54_060000.xml"/>
-<content type="text">【山形県気象警報・注意報】山形県では、１３日昼過ぎから１３日夜遅くまで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>府県気象情報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913005125_0_VPFJ50_200000.xml</id>
-<updated>2024-09-13T00:51:25Z</updated>
-<author>
-<name>長野地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913005125_0_VPFJ50_200000.xml"/>
-<content type="text">【大雨と雷及び降ひょうに関する長野県気象情報】長野県では、１３日昼過ぎから夜遅くにかけて、土砂災害、低い土地の浸水、河川の増水に十分注意してください。</content>
-</entry>
-<entry>
-<title>台風の暴風域に入る確率</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913004931_0_VPTA50_010000.xml</id>
-<updated>2024-09-13T00:48:05Z</updated>
-<author>
-<name>気象庁</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913004931_0_VPTA50_010000.xml"/>
-<content type="text">【台風の暴風域に入る確率】</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913004635_0_VPWW53_070000.xml</id>
-<updated>2024-09-13T00:46:34Z</updated>
-<author>
-<name>福島地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913004635_0_VPWW53_070000.xml"/>
-<content type="text">【福島県気象警報・注意報】福島県では、１３日昼過ぎから１３日夜遅くまで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913004635_0_VPWW54_070000.xml</id>
-<updated>2024-09-13T00:46:34Z</updated>
-<author>
-<name>福島地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913004635_0_VPWW54_070000.xml"/>
-<content type="text">【福島県気象警報・注意報】福島県では、１３日昼過ぎから１３日夜遅くまで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913004610_0_VPWW53_270000.xml</id>
-<updated>2024-09-13T00:46:10Z</updated>
-<author>
-<name>大阪管区気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913004610_0_VPWW53_270000.xml"/>
-<content type="text">【大阪府気象警報・注意報】大阪府では、１３日昼過ぎから１３日夜遅くまで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913004610_0_VPWW54_270000.xml</id>
-<updated>2024-09-13T00:46:10Z</updated>
-<author>
-<name>大阪管区気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913004610_0_VPWW54_270000.xml"/>
-<content type="text">【大阪府気象警報・注意報】大阪府では、１３日昼過ぎから１３日夜遅くまで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>台風解析・予報情報（３日予報）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913004344_0_VPTW40_010000.xml</id>
-<updated>2024-09-13T00:43:43Z</updated>
-<author>
-<name>気象庁</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913004344_0_VPTW40_010000.xml"/>
-<content type="text">【台風解析・予報情報】</content>
-</entry>
-<entry>
-<title>台風解析・予報情報（５日予報）（Ｈ３０）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913004345_0_VPTW60_010000.xml</id>
-<updated>2024-09-13T00:43:43Z</updated>
-<author>
-<name>気象庁</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913004345_0_VPTW60_010000.xml"/>
-<content type="text">【台風解析・予報情報】</content>
-</entry>
-<entry>
-<title>全般台風情報（定型）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913004345_0_VPTI51_010000.xml</id>
-<updated>2024-09-13T00:43:43Z</updated>
-<author>
-<name>気象庁</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913004345_0_VPTI51_010000.xml"/>
-<content type="text">【令和６年　台風第１３号に関する情報　第１９号　（位置）】　台風第１３号は、日本の南を １時間におよそ２０キロの速さで北北西へ進んでいます。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913003917_0_VPWW54_280000.xml</id>
-<updated>2024-09-13T00:39:17Z</updated>
-<author>
-<name>神戸地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913003917_0_VPWW54_280000.xml"/>
-<content type="text">【兵庫県気象警報・注意報】南部では、１３日夜のはじめ頃から１３日夜遅くまで高潮に注意してください。兵庫県では、１３日昼過ぎから１３日夜遅くまで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913003918_0_VPWW53_280000.xml</id>
-<updated>2024-09-13T00:39:17Z</updated>
-<author>
-<name>神戸地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913003918_0_VPWW53_280000.xml"/>
-<content type="text">【兵庫県気象警報・注意報】南部では、１３日夜のはじめ頃から１３日夜遅くまで高潮に注意してください。兵庫県では、１３日昼過ぎから１３日夜遅くまで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913003819_0_VPWW53_300000.xml</id>
-<updated>2024-09-13T00:38:18Z</updated>
-<author>
-<name>和歌山地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913003819_0_VPWW53_300000.xml"/>
-<content type="text">【和歌山県気象警報・注意報】和歌山県では、１３日昼過ぎから１３日夜遅くまで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913003819_0_VPWW54_300000.xml</id>
-<updated>2024-09-13T00:38:18Z</updated>
-<author>
-<name>和歌山地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913003819_0_VPWW54_300000.xml"/>
-<content type="text">【和歌山県気象警報・注意報】和歌山県では、１３日昼過ぎから１３日夜遅くまで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913003812_0_VPWW53_290000.xml</id>
-<updated>2024-09-13T00:38:11Z</updated>
-<author>
-<name>奈良地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913003812_0_VPWW53_290000.xml"/>
-<content type="text">【奈良県気象警報・注意報】奈良県では、１３日昼過ぎから１３日夜遅くまで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913003812_0_VPWW54_290000.xml</id>
-<updated>2024-09-13T00:38:11Z</updated>
-<author>
-<name>奈良地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913003812_0_VPWW54_290000.xml"/>
-<content type="text">【奈良県気象警報・注意報】奈良県では、１３日昼過ぎから１３日夜遅くまで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913003402_0_VPWW53_250000.xml</id>
-<updated>2024-09-13T00:34:01Z</updated>
-<author>
-<name>彦根地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913003402_0_VPWW53_250000.xml"/>
-<content type="text">【滋賀県気象警報・注意報】滋賀県では、１３日昼過ぎから１３日夜遅くまで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913003402_0_VPWW54_250000.xml</id>
-<updated>2024-09-13T00:34:01Z</updated>
-<author>
-<name>彦根地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913003402_0_VPWW54_250000.xml"/>
-<content type="text">【滋賀県気象警報・注意報】滋賀県では、１３日昼過ぎから１３日夜遅くまで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913003208_0_VPWW53_014100.xml</id>
-<updated>2024-09-13T00:32:08Z</updated>
-<author>
-<name>釧路地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913003208_0_VPWW53_014100.xml"/>
-<content type="text">【釧路・根室地方気象警報・注意報】根室地方では、１３日夕方から１３日夜のはじめ頃まで強風に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913003208_0_VPWW54_014100.xml</id>
-<updated>2024-09-13T00:32:08Z</updated>
-<author>
-<name>釧路地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913003208_0_VPWW54_014100.xml"/>
-<content type="text">【釧路・根室地方気象警報・注意報】根室地方では、１３日夕方から１３日夜のはじめ頃まで強風に注意してください。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913003202_0_VPWW53_260000.xml</id>
-<updated>2024-09-13T00:32:01Z</updated>
-<author>
-<name>京都地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913003202_0_VPWW53_260000.xml"/>
-<content type="text">【京都府気象警報・注意報】京都府では、１３日昼過ぎから１３日夜遅くまで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913003202_0_VPWW54_260000.xml</id>
-<updated>2024-09-13T00:32:01Z</updated>
-<author>
-<name>京都地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913003202_0_VPWW54_260000.xml"/>
-<content type="text">【京都府気象警報・注意報】京都府では、１３日昼過ぎから１３日夜遅くまで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913003045_0_VPWW53_410000.xml</id>
-<updated>2024-09-13T00:30:45Z</updated>
-<author>
-<name>佐賀地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913003045_0_VPWW53_410000.xml"/>
-<content type="text">【佐賀県気象警報・注意報】注意報を解除します。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913003045_0_VPWW54_410000.xml</id>
-<updated>2024-09-13T00:30:45Z</updated>
-<author>
-<name>佐賀地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913003045_0_VPWW54_410000.xml"/>
-<content type="text">【佐賀県気象警報・注意報】注意報を解除します。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913001813_0_VPWW53_200000.xml</id>
-<updated>2024-09-13T00:18:12Z</updated>
-<author>
-<name>長野地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913001813_0_VPWW53_200000.xml"/>
-<content type="text">【長野県気象警報・注意報】長野県では、１３日昼過ぎから１３日夜遅くまで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240913001813_0_VPWW54_200000.xml</id>
-<updated>2024-09-13T00:18:12Z</updated>
-<author>
-<name>長野地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240913001813_0_VPWW54_200000.xml"/>
-<content type="text">【長野県気象警報・注意報】長野県では、１３日昼過ぎから１３日夜遅くまで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240912235848_0_VPWW53_350000.xml</id>
-<updated>2024-09-12T23:58:47Z</updated>
-<author>
-<name>下関地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240912235848_0_VPWW53_350000.xml"/>
-<content type="text">【山口県気象警報・注意報】山口県では、１３日昼前から１３日夜のはじめ頃まで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240912235848_0_VPWW54_350000.xml</id>
-<updated>2024-09-12T23:58:47Z</updated>
-<author>
-<name>下関地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240912235848_0_VPWW54_350000.xml"/>
-<content type="text">【山口県気象警報・注意報】山口県では、１３日昼前から１３日夜のはじめ頃まで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240912230717_0_VPWW53_050000.xml</id>
-<updated>2024-09-12T23:07:16Z</updated>
-<author>
-<name>秋田地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240912230717_0_VPWW53_050000.xml"/>
-<content type="text">【秋田県気象警報・注意報】注意報を解除します。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240912230717_0_VPWW54_050000.xml</id>
-<updated>2024-09-12T23:07:16Z</updated>
-<author>
-<name>秋田地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240912230717_0_VPWW54_050000.xml"/>
-<content type="text">【秋田県気象警報・注意報】注意報を解除します。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240912225109_0_VPWW53_040000.xml</id>
-<updated>2024-09-12T22:51:09Z</updated>
-<author>
-<name>仙台管区気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240912225109_0_VPWW53_040000.xml"/>
-<content type="text">【宮城県気象警報・注意報】宮城県では、１３日昼過ぎから１３日夜遅くまで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240912225109_0_VPWW54_040000.xml</id>
-<updated>2024-09-12T22:51:09Z</updated>
-<author>
-<name>仙台管区気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240912225109_0_VPWW54_040000.xml"/>
-<content type="text">【宮城県気象警報・注意報】宮城県では、１３日昼過ぎから１３日夜遅くまで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240912223215_0_VPWW53_360000.xml</id>
-<updated>2024-09-12T22:32:14Z</updated>
-<author>
-<name>徳島地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240912223215_0_VPWW53_360000.xml"/>
-<content type="text">【徳島県気象警報・注意報】徳島県では、１３日昼過ぎから１３日夜遅くまで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240912223215_0_VPWW54_360000.xml</id>
-<updated>2024-09-12T22:32:14Z</updated>
-<author>
-<name>徳島地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240912223215_0_VPWW54_360000.xml"/>
-<content type="text">【徳島県気象警報・注意報】徳島県では、１３日昼過ぎから１３日夜遅くまで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240912223211_0_VPWW53_390000.xml</id>
-<updated>2024-09-12T22:32:10Z</updated>
-<author>
-<name>高知地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240912223211_0_VPWW53_390000.xml"/>
-<content type="text">【高知県気象警報・注意報】高知県では、１３日昼過ぎから１３日夜遅くまで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240912223211_0_VPWW54_390000.xml</id>
-<updated>2024-09-12T22:32:10Z</updated>
-<author>
-<name>高知地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240912223211_0_VPWW54_390000.xml"/>
-<content type="text">【高知県気象警報・注意報】高知県では、１３日昼過ぎから１３日夜遅くまで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240912222818_0_VPWW54_380000.xml</id>
-<updated>2024-09-12T22:28:18Z</updated>
-<author>
-<name>松山地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240912222818_0_VPWW54_380000.xml"/>
-<content type="text">【愛媛県気象警報・注意報】愛媛県では、１３日昼過ぎから１３日夜遅くまで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240912222819_0_VPWW53_380000.xml</id>
-<updated>2024-09-12T22:28:18Z</updated>
-<author>
-<name>松山地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240912222819_0_VPWW53_380000.xml"/>
-<content type="text">【愛媛県気象警報・注意報】愛媛県では、１３日昼過ぎから１３日夜遅くまで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240912222814_0_VPWW54_370000.xml</id>
-<updated>2024-09-12T22:28:14Z</updated>
-<author>
-<name>高松地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240912222814_0_VPWW54_370000.xml"/>
-<content type="text">【香川県気象警報・注意報】香川県では、１３日昼過ぎから１３日夜遅くまで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240912222815_0_VPWW53_370000.xml</id>
-<updated>2024-09-12T22:28:14Z</updated>
-<author>
-<name>高松地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240912222815_0_VPWW53_370000.xml"/>
-<content type="text">【香川県気象警報・注意報】香川県では、１３日昼過ぎから１３日夜遅くまで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240912221433_0_VPWW53_030000.xml</id>
-<updated>2024-09-12T22:14:32Z</updated>
-<author>
-<name>盛岡地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240912221433_0_VPWW53_030000.xml"/>
-<content type="text">【岩手県気象警報・注意報】注意報を解除します。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240912221433_0_VPWW54_030000.xml</id>
-<updated>2024-09-12T22:14:32Z</updated>
-<author>
-<name>盛岡地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240912221433_0_VPWW54_030000.xml"/>
-<content type="text">【岩手県気象警報・注意報】注意報を解除します。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240912214710_0_VPWW53_200000.xml</id>
-<updated>2024-09-12T21:47:09Z</updated>
-<author>
-<name>長野地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240912214710_0_VPWW53_200000.xml"/>
-<content type="text">【長野県気象警報・注意報】長野県では、１３日昼過ぎから１３日夜遅くまで急な強い雨や落雷に注意してください。中部では、１３日昼前まで濃霧による視程障害に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240912214710_0_VPWW54_200000.xml</id>
-<updated>2024-09-12T21:47:09Z</updated>
-<author>
-<name>長野地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240912214710_0_VPWW54_200000.xml"/>
-<content type="text">【長野県気象警報・注意報】長野県では、１３日昼過ぎから１３日夜遅くまで急な強い雨や落雷に注意してください。中部では、１３日昼前まで濃霧による視程障害に注意してください。</content>
-</entry>
-<entry>
-<title>台風解析・予報情報（３日予報）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240912214407_0_VPTW40_010000.xml</id>
-<updated>2024-09-12T21:44:06Z</updated>
-<author>
-<name>気象庁</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240912214407_0_VPTW40_010000.xml"/>
-<content type="text">【台風解析・予報情報】</content>
-</entry>
-<entry>
-<title>台風解析・予報情報（５日予報）（Ｈ３０）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240912214407_0_VPTW60_010000.xml</id>
-<updated>2024-09-12T21:44:06Z</updated>
-<author>
-<name>気象庁</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240912214407_0_VPTW60_010000.xml"/>
-<content type="text">【台風解析・予報情報】</content>
-</entry>
-<entry>
-<title>全般台風情報（定型）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240912214408_0_VPTI51_010000.xml</id>
-<updated>2024-09-12T21:44:06Z</updated>
-<author>
-<name>気象庁</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240912214408_0_VPTI51_010000.xml"/>
-<content type="text">【令和６年　台風第１３号に関する情報　第１８号　（位置）】　台風第１３号は、日本の南を １時間におよそ２０キロの速さで北西へ進んでいます。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240912213236_0_VPWW53_016000.xml</id>
-<updated>2024-09-12T21:32:35Z</updated>
-<author>
-<name>札幌管区気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240912213236_0_VPWW53_016000.xml"/>
-<content type="text">【石狩・空知・後志地方気象警報・注意報】石狩、空知地方では、１３日昼過ぎから１３日夜のはじめ頃まで強風に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240912213236_0_VPWW54_016000.xml</id>
-<updated>2024-09-12T21:32:35Z</updated>
-<author>
-<name>札幌管区気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240912213236_0_VPWW54_016000.xml"/>
-<content type="text">【石狩・空知・後志地方気象警報・注意報】石狩、空知地方では、１３日昼過ぎから１３日夜のはじめ頃まで強風に注意してください。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240912213013_0_VPWW53_015000.xml</id>
-<updated>2024-09-12T21:30:12Z</updated>
-<author>
-<name>室蘭地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240912213013_0_VPWW53_015000.xml"/>
-<content type="text">【胆振・日高地方気象警報・注意報】胆振地方では、１３日昼過ぎから１３日夜のはじめ頃まで強風に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240912213013_0_VPWW54_015000.xml</id>
-<updated>2024-09-12T21:30:12Z</updated>
-<author>
-<name>室蘭地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240912213013_0_VPWW54_015000.xml"/>
-<content type="text">【胆振・日高地方気象警報・注意報】胆振地方では、１３日昼過ぎから１３日夜のはじめ頃まで強風に注意してください。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240912212612_0_VPWW53_013000.xml</id>
-<updated>2024-09-12T21:26:11Z</updated>
-<author>
-<name>網走地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240912212612_0_VPWW53_013000.xml"/>
-<content type="text">【網走・北見・紋別地方気象警報・注意報】網走、紋別地方では、１３日昼過ぎから１３日夜のはじめ頃まで強風に注意してください。網走、北見、紋別地方では、１３日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240912212612_0_VPWW54_013000.xml</id>
-<updated>2024-09-12T21:26:11Z</updated>
-<author>
-<name>網走地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240912212612_0_VPWW54_013000.xml"/>
-<content type="text">【網走・北見・紋別地方気象警報・注意報】網走、紋別地方では、１３日昼過ぎから１３日夜のはじめ頃まで強風に注意してください。網走、北見、紋別地方では、１３日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240912211025_0_VPWW53_070000.xml</id>
-<updated>2024-09-12T21:10:24Z</updated>
-<author>
-<name>福島地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240912211025_0_VPWW53_070000.xml"/>
-<content type="text">【福島県気象警報・注意報】福島県では、１３日昼過ぎから１３日夜遅くまで急な強い雨や落雷に、１３日昼前まで濃霧による視程障害に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240912211025_0_VPWW54_070000.xml</id>
-<updated>2024-09-12T21:10:24Z</updated>
-<author>
-<name>福島地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240912211025_0_VPWW54_070000.xml"/>
-<content type="text">【福島県気象警報・注意報】福島県では、１３日昼過ぎから１３日夜遅くまで急な強い雨や落雷に、１３日昼前まで濃霧による視程障害に注意してください。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240912210955_0_VPWW53_040000.xml</id>
-<updated>2024-09-12T21:09:54Z</updated>
-<author>
-<name>仙台管区気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240912210955_0_VPWW53_040000.xml"/>
-<content type="text">【宮城県気象警報・注意報】宮城県では、１３日昼過ぎから１３日夜遅くまで急な強い雨や落雷に、１３日昼前まで濃霧による視程障害に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240912210955_0_VPWW54_040000.xml</id>
-<updated>2024-09-12T21:09:54Z</updated>
-<author>
-<name>仙台管区気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240912210955_0_VPWW54_040000.xml"/>
-<content type="text">【宮城県気象警報・注意報】宮城県では、１３日昼過ぎから１３日夜遅くまで急な強い雨や落雷に、１３日昼前まで濃霧による視程障害に注意してください。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240912210508_0_VPWW53_180000.xml</id>
-<updated>2024-09-12T21:05:07Z</updated>
-<author>
-<name>福井地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240912210508_0_VPWW53_180000.xml"/>
-<content type="text">【福井県気象警報・注意報】福井県では、１３日昼過ぎから１３日夜のはじめ頃まで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240912210508_0_VPWW54_180000.xml</id>
-<updated>2024-09-12T21:05:07Z</updated>
-<author>
-<name>福井地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240912210508_0_VPWW54_180000.xml"/>
-<content type="text">【福井県気象警報・注意報】福井県では、１３日昼過ぎから１３日夜のはじめ頃まで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>地方気象情報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240912210429_0_VPCJ50_130000.xml</id>
-<updated>2024-09-12T21:04:29Z</updated>
-<author>
-<name>気象庁</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240912210429_0_VPCJ50_130000.xml"/>
-<content type="text">【大雨と雷及び降ひょうに関する関東甲信地方気象情報】関東甲信地方では、１４日昼前にかけて、土砂災害、低い土地の浸水、河川の増水に注意・警戒してください。また、落雷や突風、降ひょうに注意してください。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240912210409_0_VPWW53_170000.xml</id>
-<updated>2024-09-12T21:04:09Z</updated>
-<author>
-<name>金沢地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240912210409_0_VPWW53_170000.xml"/>
-<content type="text">【石川県気象警報・注意報】能登では、１３日昼前まで高潮に注意してください。加賀では、１３日昼過ぎから１３日夜のはじめ頃まで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240912210409_0_VPWW54_170000.xml</id>
-<updated>2024-09-12T21:04:09Z</updated>
-<author>
-<name>金沢地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240912210409_0_VPWW54_170000.xml"/>
-<content type="text">【石川県気象警報・注意報】能登では、１３日昼前まで高潮に注意してください。加賀では、１３日昼過ぎから１３日夜のはじめ頃まで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240912210329_0_VPWW53_160000.xml</id>
-<updated>2024-09-12T21:03:29Z</updated>
-<author>
-<name>富山地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240912210329_0_VPWW53_160000.xml"/>
-<content type="text">【富山県気象警報・注意報】富山県では、１３日昼過ぎから１３日夜のはじめ頃まで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240912210329_0_VPWW54_160000.xml</id>
-<updated>2024-09-12T21:03:29Z</updated>
-<author>
-<name>富山地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240912210329_0_VPWW54_160000.xml"/>
-<content type="text">【富山県気象警報・注意報】富山県では、１３日昼過ぎから１３日夜のはじめ頃まで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240912210215_0_VPWW53_150000.xml</id>
-<updated>2024-09-12T21:02:15Z</updated>
-<author>
-<name>新潟地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240912210215_0_VPWW53_150000.xml"/>
-<content type="text">【新潟県気象警報・注意報】新潟県では、１３日昼過ぎから１３日夜遅くまで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240912210215_0_VPWW54_150000.xml</id>
-<updated>2024-09-12T21:02:15Z</updated>
-<author>
-<name>新潟地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240912210215_0_VPWW54_150000.xml"/>
-<content type="text">【新潟県気象警報・注意報】新潟県では、１３日昼過ぎから１３日夜遅くまで急な強い雨や落雷に注意してください。</content>
-</entry>
-<entry>
-<title>府県気象情報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240912205905_0_VPFJ50_460040.xml</id>
-<updated>2024-09-12T20:59:04Z</updated>
-<author>
-<name>名瀬測候所</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240912205905_0_VPFJ50_460040.xml"/>
-<content type="text">【令和６年台風第１３号に関する奄美地方（鹿児島県）気象情報】台風第１３号は、発達しながら日本の南を北西へ進み、１４日夕方頃に強い勢力で奄美地方に最も接近する見込みです。奄美地方では１４日夕方から夜のはじめ頃にかけて暴風やうねりを伴った高波に、１４日夕方は高潮に厳重に警戒してください。また、１４日未明から土砂災害、低い土地の浸水、河川の増水に十分注意してください。</content>
-</entry>
-<entry>
-<title>地方気象情報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240912205514_0_VPCJ50_460100.xml</id>
-<updated>2024-09-12T20:55:13Z</updated>
-<author>
-<name>鹿児島地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240912205514_0_VPCJ50_460100.xml"/>
-<content type="text">【令和６年台風第１３号に関する九州南部・奄美地方気象情報】台風第１３号は、発達しながら日本の南を北西へ進み１４日夕方頃に、強い勢力で奄美地方へ最も接近する見込みです。奄美地方では１４日夕方から１４日夜のはじめ頃にかけて暴風やうねりを伴った高波に、１４日夕方は高潮に厳重に警戒してください。また、１４日未明から土砂災害、低い土地の浸水、河川の増水に十分注意してください。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240912205023_0_VPWW53_410000.xml</id>
-<updated>2024-09-12T20:50:22Z</updated>
-<author>
-<name>佐賀地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240912205023_0_VPWW53_410000.xml"/>
-<content type="text">【佐賀県気象警報・注意報】北部では、１３日昼前まで濃霧による視程障害に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240912205023_0_VPWW54_410000.xml</id>
-<updated>2024-09-12T20:50:22Z</updated>
-<author>
-<name>佐賀地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240912205023_0_VPWW54_410000.xml"/>
-<content type="text">【佐賀県気象警報・注意報】北部では、１３日昼前まで濃霧による視程障害に注意してください。</content>
-</entry>
-<entry>
-<title>気象特別警報・警報・注意報</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240912204505_0_VPWW53_350000.xml</id>
-<updated>2024-09-12T20:45:04Z</updated>
-<author>
-<name>下関地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240912204505_0_VPWW53_350000.xml"/>
-<content type="text">【山口県気象警報・注意報】山口県では、１３日昼前から１３日夜のはじめ頃まで急な強い雨や落雷に、１３日朝まで濃霧による視程障害に注意してください。</content>
-</entry>
-<entry>
-<title>気象警報・注意報（Ｈ２７）</title>
-<id>https://www.data.jma.go.jp/developer/xml/data/20240912204505_0_VPWW54_350000.xml</id>
-<updated>2024-09-12T20:45:04Z</updated>
-<author>
-<name>下関地方気象台</name>
-</author>
-<link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240912204505_0_VPWW54_350000.xml"/>
-<content type="text">【山口県気象警報・注意報】山口県では、１３日昼前から１３日夜のはじめ頃まで急な強い雨や落雷に、１３日朝まで濃霧による視程障害に注意してください。</content>
-</entry>
-</feed>
+<?xml version="1.0" encoding="UTF-8"?>
+<Report xmlns="http://xml.kishou.go.jp/jmaxml1/" xmlns:jmx="http://xml.kishou.go.jp/jmaxml1/" xmlns:jmx_add="http://xml.kishou.go.jp/jmaxml1/addition1/">
+<Control>
+<Title>気象特別警報報知</Title>
+<DateTime>2013-08-19T08:24:53Z</DateTime>
+<Status>通常</Status>
+<EditorialOffice>神戸地方気象台</EditorialOffice>
+<PublishingOffice>神戸地方気象台</PublishingOffice>
+</Control>
+<Head xmlns="http://xml.kishou.go.jp/jmaxml1/informationBasis1/">
+<Title>兵庫県気象特別警報報知</Title>
+<ReportDateTime>2013-08-19T17:24:00+09:00</ReportDateTime>
+<TargetDateTime>2013-08-19T17:24:00+09:00</TargetDateTime>
+<EventID/>
+<InfoType>発表</InfoType>
+<Serial/>
+<InfoKind>気象特別警報報知</InfoKind>
+<InfoKindVersion>1.1_0</InfoKindVersion>
+<Headline>
+<Text>【特別警報（大雨、暴風、波浪、高潮）】兵庫県に特別警報を発表しました。警報本文をご確認ください。</Text>
+<Information type="気象特別警報報知（府県予報区等）">
+<Item>
+<Kind>
+<Name>大雨特別警報</Name>
+<Code>33</Code>
+</Kind>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Kind>
+<Name>波浪特別警報</Name>
+<Code>37</Code>
+</Kind>
+<Kind>
+<Name>高潮特別警報</Name>
+<Code>38</Code>
+</Kind>
+<Areas codeType="気象情報／府県予報区・細分区域等">
+<Area>
+<Name>兵庫県</Name>
+<Code>280000</Code>
+</Area>
+</Areas>
+</Item>
+</Information>
+<Information type="気象特別警報報知（一次細分区域等）">
+<Item>
+<Kind>
+<Name>大雨特別警報</Name>
+<Code>33</Code>
+</Kind>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Kind>
+<Name>波浪特別警報</Name>
+<Code>37</Code>
+</Kind>
+<Kind>
+<Name>高潮特別警報</Name>
+<Code>38</Code>
+</Kind>
+<Areas codeType="気象情報／府県予報区・細分区域等">
+<Area>
+<Name>南部</Name>
+<Code>280010</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>大雨特別警報</Name>
+<Code>33</Code>
+</Kind>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Kind>
+<Name>波浪特別警報</Name>
+<Code>37</Code>
+</Kind>
+<Kind>
+<Name>高潮特別警報</Name>
+<Code>38</Code>
+</Kind>
+<Areas codeType="気象情報／府県予報区・細分区域等">
+<Area>
+<Name>北部</Name>
+<Code>280020</Code>
+</Area>
+</Areas>
+</Item>
+</Information>
+<Information type="気象特別警報報知（市町村等をまとめた地域等）">
+<Item>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Kind>
+<Name>波浪特別警報</Name>
+<Code>37</Code>
+</Kind>
+<Kind>
+<Name>高潮特別警報</Name>
+<Code>38</Code>
+</Kind>
+<Areas codeType="気象情報／府県予報区・細分区域等">
+<Area>
+<Name>阪神</Name>
+<Code>280011</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>大雨特別警報</Name>
+<Code>33</Code>
+</Kind>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Areas codeType="気象情報／府県予報区・細分区域等">
+<Area>
+<Name>北播丹波</Name>
+<Code>280012</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Areas codeType="気象情報／府県予報区・細分区域等">
+<Area>
+<Name>播磨北西部</Name>
+<Code>280013</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Kind>
+<Name>波浪特別警報</Name>
+<Code>37</Code>
+</Kind>
+<Kind>
+<Name>高潮特別警報</Name>
+<Code>38</Code>
+</Kind>
+<Areas codeType="気象情報／府県予報区・細分区域等">
+<Area>
+<Name>播磨南東部</Name>
+<Code>280014</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>大雨特別警報</Name>
+<Code>33</Code>
+</Kind>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Kind>
+<Name>波浪特別警報</Name>
+<Code>37</Code>
+</Kind>
+<Kind>
+<Name>高潮特別警報</Name>
+<Code>38</Code>
+</Kind>
+<Areas codeType="気象情報／府県予報区・細分区域等">
+<Area>
+<Name>播磨南西部</Name>
+<Code>280015</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Kind>
+<Name>波浪特別警報</Name>
+<Code>37</Code>
+</Kind>
+<Kind>
+<Name>高潮特別警報</Name>
+<Code>38</Code>
+</Kind>
+<Areas codeType="気象情報／府県予報区・細分区域等">
+<Area>
+<Name>淡路島</Name>
+<Code>280016</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Kind>
+<Name>波浪特別警報</Name>
+<Code>37</Code>
+</Kind>
+<Kind>
+<Name>高潮特別警報</Name>
+<Code>38</Code>
+</Kind>
+<Areas codeType="気象情報／府県予報区・細分区域等">
+<Area>
+<Name>但馬北部</Name>
+<Code>280021</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>大雨特別警報</Name>
+<Code>33</Code>
+</Kind>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Areas codeType="気象情報／府県予報区・細分区域等">
+<Area>
+<Name>但馬南部</Name>
+<Code>280022</Code>
+</Area>
+</Areas>
+</Item>
+</Information>
+<Information type="気象特別警報報知（市町村等）">
+<Item>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Kind>
+<Name>波浪特別警報</Name>
+<Code>37</Code>
+</Kind>
+<Kind>
+<Name>高潮特別警報</Name>
+<Code>38</Code>
+</Kind>
+<Areas codeType="気象・地震・火山情報／市町村等">
+<Area>
+<Name>神戸市</Name>
+<Code>2810000</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>大雨特別警報</Name>
+<Code>33</Code>
+</Kind>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Kind>
+<Name>波浪特別警報</Name>
+<Code>37</Code>
+</Kind>
+<Kind>
+<Name>高潮特別警報</Name>
+<Code>38</Code>
+</Kind>
+<Areas codeType="気象・地震・火山情報／市町村等">
+<Area>
+<Name>姫路市</Name>
+<Code>2820100</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Kind>
+<Name>波浪特別警報</Name>
+<Code>37</Code>
+</Kind>
+<Kind>
+<Name>高潮特別警報</Name>
+<Code>38</Code>
+</Kind>
+<Areas codeType="気象・地震・火山情報／市町村等">
+<Area>
+<Name>尼崎市</Name>
+<Code>2820200</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Kind>
+<Name>波浪特別警報</Name>
+<Code>37</Code>
+</Kind>
+<Kind>
+<Name>高潮特別警報</Name>
+<Code>38</Code>
+</Kind>
+<Areas codeType="気象・地震・火山情報／市町村等">
+<Area>
+<Name>明石市</Name>
+<Code>2820300</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Kind>
+<Name>波浪特別警報</Name>
+<Code>37</Code>
+</Kind>
+<Kind>
+<Name>高潮特別警報</Name>
+<Code>38</Code>
+</Kind>
+<Areas codeType="気象・地震・火山情報／市町村等">
+<Area>
+<Name>西宮市</Name>
+<Code>2820400</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Kind>
+<Name>波浪特別警報</Name>
+<Code>37</Code>
+</Kind>
+<Kind>
+<Name>高潮特別警報</Name>
+<Code>38</Code>
+</Kind>
+<Areas codeType="気象・地震・火山情報／市町村等">
+<Area>
+<Name>洲本市</Name>
+<Code>2820500</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Kind>
+<Name>波浪特別警報</Name>
+<Code>37</Code>
+</Kind>
+<Kind>
+<Name>高潮特別警報</Name>
+<Code>38</Code>
+</Kind>
+<Areas codeType="気象・地震・火山情報／市町村等">
+<Area>
+<Name>芦屋市</Name>
+<Code>2820600</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Areas codeType="気象・地震・火山情報／市町村等">
+<Area>
+<Name>伊丹市</Name>
+<Code>2820700</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>大雨特別警報</Name>
+<Code>33</Code>
+</Kind>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Kind>
+<Name>波浪特別警報</Name>
+<Code>37</Code>
+</Kind>
+<Kind>
+<Name>高潮特別警報</Name>
+<Code>38</Code>
+</Kind>
+<Areas codeType="気象・地震・火山情報／市町村等">
+<Area>
+<Name>相生市</Name>
+<Code>2820800</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Kind>
+<Name>波浪特別警報</Name>
+<Code>37</Code>
+</Kind>
+<Kind>
+<Name>高潮特別警報</Name>
+<Code>38</Code>
+</Kind>
+<Areas codeType="気象・地震・火山情報／市町村等">
+<Area>
+<Name>豊岡市</Name>
+<Code>2820900</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Kind>
+<Name>波浪特別警報</Name>
+<Code>37</Code>
+</Kind>
+<Areas codeType="気象・地震・火山情報／市町村等">
+<Area>
+<Name>加古川市</Name>
+<Code>2821000</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>大雨特別警報</Name>
+<Code>33</Code>
+</Kind>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Kind>
+<Name>波浪特別警報</Name>
+<Code>37</Code>
+</Kind>
+<Kind>
+<Name>高潮特別警報</Name>
+<Code>38</Code>
+</Kind>
+<Areas codeType="気象・地震・火山情報／市町村等">
+<Area>
+<Name>赤穂市</Name>
+<Code>2821200</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>大雨特別警報</Name>
+<Code>33</Code>
+</Kind>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Areas codeType="気象・地震・火山情報／市町村等">
+<Area>
+<Name>西脇市</Name>
+<Code>2821300</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Areas codeType="気象・地震・火山情報／市町村等">
+<Area>
+<Name>宝塚市</Name>
+<Code>2821400</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Areas codeType="気象・地震・火山情報／市町村等">
+<Area>
+<Name>三木市</Name>
+<Code>2821500</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Kind>
+<Name>波浪特別警報</Name>
+<Code>37</Code>
+</Kind>
+<Areas codeType="気象・地震・火山情報／市町村等">
+<Area>
+<Name>高砂市</Name>
+<Code>2821600</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Areas codeType="気象・地震・火山情報／市町村等">
+<Area>
+<Name>川西市</Name>
+<Code>2821700</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Areas codeType="気象・地震・火山情報／市町村等">
+<Area>
+<Name>小野市</Name>
+<Code>2821800</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Areas codeType="気象・地震・火山情報／市町村等">
+<Area>
+<Name>三田市</Name>
+<Code>2821900</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Areas codeType="気象・地震・火山情報／市町村等">
+<Area>
+<Name>加西市</Name>
+<Code>2822000</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Areas codeType="気象・地震・火山情報／市町村等">
+<Area>
+<Name>篠山市</Name>
+<Code>2822100</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>大雨特別警報</Name>
+<Code>33</Code>
+</Kind>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Areas codeType="気象・地震・火山情報／市町村等">
+<Area>
+<Name>養父市</Name>
+<Code>2822200</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Areas codeType="気象・地震・火山情報／市町村等">
+<Area>
+<Name>丹波市</Name>
+<Code>2822300</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Kind>
+<Name>波浪特別警報</Name>
+<Code>37</Code>
+</Kind>
+<Kind>
+<Name>高潮特別警報</Name>
+<Code>38</Code>
+</Kind>
+<Areas codeType="気象・地震・火山情報／市町村等">
+<Area>
+<Name>南あわじ市</Name>
+<Code>2822400</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Areas codeType="気象・地震・火山情報／市町村等">
+<Area>
+<Name>朝来市</Name>
+<Code>2822500</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Kind>
+<Name>波浪特別警報</Name>
+<Code>37</Code>
+</Kind>
+<Kind>
+<Name>高潮特別警報</Name>
+<Code>38</Code>
+</Kind>
+<Areas codeType="気象・地震・火山情報／市町村等">
+<Area>
+<Name>淡路市</Name>
+<Code>2822600</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Areas codeType="気象・地震・火山情報／市町村等">
+<Area>
+<Name>宍粟市</Name>
+<Code>2822700</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Areas codeType="気象・地震・火山情報／市町村等">
+<Area>
+<Name>加東市</Name>
+<Code>2822800</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>大雨特別警報</Name>
+<Code>33</Code>
+</Kind>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Kind>
+<Name>波浪特別警報</Name>
+<Code>37</Code>
+</Kind>
+<Kind>
+<Name>高潮特別警報</Name>
+<Code>38</Code>
+</Kind>
+<Areas codeType="気象・地震・火山情報／市町村等">
+<Area>
+<Name>たつの市</Name>
+<Code>2822900</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Areas codeType="気象・地震・火山情報／市町村等">
+<Area>
+<Name>猪名川町</Name>
+<Code>2830100</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Areas codeType="気象・地震・火山情報／市町村等">
+<Area>
+<Name>多可町</Name>
+<Code>2836500</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Areas codeType="気象・地震・火山情報／市町村等">
+<Area>
+<Name>稲美町</Name>
+<Code>2838100</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Kind>
+<Name>波浪特別警報</Name>
+<Code>37</Code>
+</Kind>
+<Areas codeType="気象・地震・火山情報／市町村等">
+<Area>
+<Name>播磨町</Name>
+<Code>2838200</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Areas codeType="気象・地震・火山情報／市町村等">
+<Area>
+<Name>市川町</Name>
+<Code>2844200</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Areas codeType="気象・地震・火山情報／市町村等">
+<Area>
+<Name>福崎町</Name>
+<Code>2844300</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Areas codeType="気象・地震・火山情報／市町村等">
+<Area>
+<Name>神河町</Name>
+<Code>2844600</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>大雨特別警報</Name>
+<Code>33</Code>
+</Kind>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Areas codeType="気象・地震・火山情報／市町村等">
+<Area>
+<Name>太子町</Name>
+<Code>2846400</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>大雨特別警報</Name>
+<Code>33</Code>
+</Kind>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Areas codeType="気象・地震・火山情報／市町村等">
+<Area>
+<Name>上郡町</Name>
+<Code>2848100</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Areas codeType="気象・地震・火山情報／市町村等">
+<Area>
+<Name>佐用町</Name>
+<Code>2850100</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Kind>
+<Name>波浪特別警報</Name>
+<Code>37</Code>
+</Kind>
+<Kind>
+<Name>高潮特別警報</Name>
+<Code>38</Code>
+</Kind>
+<Areas codeType="気象・地震・火山情報／市町村等">
+<Area>
+<Name>香美町</Name>
+<Code>2858500</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Kind>
+<Name>波浪特別警報</Name>
+<Code>37</Code>
+</Kind>
+<Kind>
+<Name>高潮特別警報</Name>
+<Code>38</Code>
+</Kind>
+<Areas codeType="気象・地震・火山情報／市町村等">
+<Area>
+<Name>新温泉町</Name>
+<Code>2858600</Code>
+</Area>
+</Areas>
+</Item>
+</Information>
+<Information type="気象特別警報報知（警報注意報種別毎）">
+<Item>
+<Kind>
+<Name>大雨特別警報</Name>
+<Code>33</Code>
+</Kind>
+<Areas codeType="気象情報／府県予報区・細分区域等">
+<Area>
+<Name>北播丹波</Name>
+<Code>280012</Code>
+</Area>
+<Area>
+<Name>播磨南西部</Name>
+<Code>280015</Code>
+</Area>
+<Area>
+<Name>但馬南部</Name>
+<Code>280022</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>暴風特別警報</Name>
+<Code>35</Code>
+</Kind>
+<Areas codeType="気象情報／府県予報区・細分区域等">
+<Area>
+<Name>兵庫県</Name>
+<Code>280000</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>波浪特別警報</Name>
+<Code>37</Code>
+</Kind>
+<Areas codeType="気象情報／府県予報区・細分区域等">
+<Area>
+<Name>阪神</Name>
+<Code>280011</Code>
+</Area>
+<Area>
+<Name>播磨南東部</Name>
+<Code>280014</Code>
+</Area>
+<Area>
+<Name>播磨南西部</Name>
+<Code>280015</Code>
+</Area>
+<Area>
+<Name>淡路島</Name>
+<Code>280016</Code>
+</Area>
+<Area>
+<Name>但馬北部</Name>
+<Code>280021</Code>
+</Area>
+</Areas>
+</Item>
+<Item>
+<Kind>
+<Name>高潮特別警報</Name>
+<Code>38</Code>
+</Kind>
+<Areas codeType="気象情報／府県予報区・細分区域等">
+<Area>
+<Name>阪神</Name>
+<Code>280011</Code>
+</Area>
+<Area>
+<Name>播磨南東部</Name>
+<Code>280014</Code>
+</Area>
+<Area>
+<Name>播磨南西部</Name>
+<Code>280015</Code>
+</Area>
+<Area>
+<Name>淡路島</Name>
+<Code>280016</Code>
+</Area>
+<Area>
+<Name>但馬北部</Name>
+<Code>280021</Code>
+</Area>
+</Areas>
+</Item>
+</Information>
+</Headline>
+</Head>
+<Body xmlns="http://xml.kishou.go.jp/jmaxml1/body/meteorology1/"/>
+</Report>
