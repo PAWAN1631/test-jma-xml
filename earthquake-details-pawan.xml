@@ -43,46 +43,46 @@
 <Type xpath="Pref/Area/City/IntensityStation/Code">震度観測点</Type>
 </CodeDefine>
 <MaxInt>3</MaxInt>
+  <Pref>
+  <Name>千葉県</Name>
+  <Code>12</Code>
+  <MaxInt>1</MaxInt>
+  <Area>
+  <Name>千葉県北西部</Name>
+  <Code>341</Code>
+  <MaxInt>1</MaxInt>
+  <City>
+  <Name>千葉花見川区</Name>
+  <Code>1210200</Code>
+  <MaxInt>1</MaxInt>
+  <IntensityStation>
+  <Name>千葉花見川区花島町＊</Name>
+  <Code>1210240</Code>
+  <Int>1</Int>
+  </IntensityStation>
+  </City>
+  </Area>
+  </Pref>
 <Pref>
-<Name>千葉県</Name>
-<Code>12</Code>
-<MaxInt>1</MaxInt>
-<Area>
-<Name>千葉県北西部</Name>
-<Code>341</Code>
-<MaxInt>1</MaxInt>
-<City>
-<Name>千葉花見川区</Name>
-<Code>1210200</Code>
-<MaxInt>1</MaxInt>
-<IntensityStation>
-<Name>千葉花見川区花島町＊</Name>
-<Code>1210240</Code>
-<Int>1</Int>
-</IntensityStation>
-</City>
-</Area>
-</Pref>
-<Pref>
-<Name>東京都</Name>
-<Code>13</Code>
-<MaxInt>1</MaxInt>
-<Area>
-<Name>東京都２３区</Name>
-<Code>350</Code>
-<MaxInt>1</MaxInt>
-<City>
-<Name>東京江戸川区</Name>
-<Code>1312300</Code>
-<MaxInt>1</MaxInt>
-<IntensityStation>
-<Name>東京江戸川区中央</Name>
-<Code>1312300</Code>
-<Int>1</Int>
-</IntensityStation>
-</City>
-</Area>
-</Pref>
+  <Name>東京都</Name>
+  <Code>13</Code>
+  <MaxInt>1</MaxInt>
+  <Area>
+  <Name>東京都２３区</Name>
+  <Code>350</Code>
+  <MaxInt>1</MaxInt>
+  <City>
+  <Name>東京江戸川区</Name>
+  <Code>1312300</Code>
+  <MaxInt>1</MaxInt>
+  <IntensityStation>
+  <Name>東京江戸川区中央</Name>
+  <Code>1312300</Code>
+  <Int>1</Int>
+  </IntensityStation>
+  </City>
+  </Area>
+  </Pref>
 <Pref>
 <Name>神奈川県</Name>
 <Code>14</Code>
