@@ -41,7 +41,7 @@ This XML file does not appear to have any style information associated with it. 
 <Type xpath="Pref/Area/City/Code">気象・地震・火山情報／市町村等</Type>
 <Type xpath="Pref/Area/City/IntensityStation/Code">震度観測点</Type>
 </CodeDefine>
-<MaxInt>1</MaxInt>
+<MaxInt>3</MaxInt>
 <Pref>
 <Name>千葉県</Name>
 <Code>12</Code>
