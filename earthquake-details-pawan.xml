@@ -64,26 +64,6 @@
   </City>
   </Area>
   </Pref>
-<Pref>
-  <Name>東京都</Name>
-  <Code>13</Code>
-  <MaxInt>1</MaxInt>
-  <Area>
-  <Name>東京都２３区</Name>
-  <Code>350</Code>
-  <MaxInt>1</MaxInt>
-  <City>
-  <Name>東京江戸川区</Name>
-  <Code>1312300</Code>
-  <MaxInt>1</MaxInt>
-  <IntensityStation>
-  <Name>東京江戸川区中央</Name>
-  <Code>1312300</Code>
-  <Int>1</Int>
-  </IntensityStation>
-  </City>
-  </Area>
-  </Pref>
 
   
 <Pref>
@@ -107,8 +87,30 @@
   </Area>
 </Pref>
 
+  
 
+<Pref>
+  <Name>東京都</Name>
+  <Code>13</Code>
+  <MaxInt>3</MaxInt>
+  <Area>
+  <Name>東京都２３区</Name>
+  <Code>350</Code>
+  <MaxInt>1</MaxInt>
+  <City>
+  <Name>東京江戸川区</Name>
+  <Code>1312300</Code>
+  <MaxInt>1</MaxInt>
+  <IntensityStation>
+  <Name>東京江戸川区中央</Name>
+  <Code>1312300</Code>
+  <Int>1</Int>
+  </IntensityStation>
+  </City>
+  </Area>
+  </Pref>
 
+  
   
 <Pref>
 <Name>神奈川県</Name>
