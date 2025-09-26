@@ -68,7 +68,8 @@
   
 <Pref>
   <Name>岩手県</Name>
-  <Code>13</Code>
+  <!-- Location is triggered by below code (03)............................if we write code 13 insted of 03 it will trigger Tokyo............................................................... -->
+  <Code>03</Code>
   <MaxInt>3</MaxInt>
   <Area>
   <Name>岩手県内陸南部</Name>
