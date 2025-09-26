@@ -21,6 +21,7 @@
 </Head>
 <Body xmlns="http://xml.kishou.go.jp/jmaxml1/body/seismology1/" xmlns:jmx_eb="http://xml.kishou.go.jp/jmaxml1/elementBasis1/">
 <Earthquake>
+  <!--Time when Disaster Occured.....................................................................................................................................................-->
 <OriginTime>2025-09-24T21:17:00+09:00</OriginTime>
 <ArrivalTime>2025-09-24T21:17:00+09:00</ArrivalTime>
 <Hypocenter>
