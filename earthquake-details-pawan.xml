@@ -84,6 +84,32 @@
   </City>
   </Area>
   </Pref>
+
+  
+<Pref>
+  <Name>岩手県</Name>
+  <Code>13</Code>
+  <MaxInt>3</MaxInt>
+  <Area>
+  <Name>岩手県内陸南部</Name>
+  <Code>213</Code>
+  <MaxInt>3</MaxInt>
+  <City>
+  <Name>Testttttttttttttttttttt</Name>
+  <Code>0321500</Code>
+  <MaxInt>3</MaxInt>
+  <IntensityStation>
+  <Name>TESTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</Name>
+  <Code>0321533</Code>
+  <Int>3</Int>
+  </IntensityStation>
+  </City>
+  </Area>
+</Pref>
+
+
+
+  
 <Pref>
 <Name>神奈川県</Name>
 <Code>14</Code>
