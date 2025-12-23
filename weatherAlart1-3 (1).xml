@@ -1,3 +1,7 @@
+//This is for except tsunami and earthquake disaster (All other disaster type)
+//Extra.xml
+
+
 <Report xmlns="http://xml.kishou.go.jp/jmaxml1/" xmlns:jmx="http://xml.kishou.go.jp/jmaxml1/" xmlns:jmx_add="http://xml.kishou.go.jp/jmaxml1/addition1/">
 <Control>
 <Title>気象特別警報・警報・注意報</Title>
@@ -7976,4 +7980,5 @@
 </Item>
 </Warning>
 </Body>
+
 </Report>
