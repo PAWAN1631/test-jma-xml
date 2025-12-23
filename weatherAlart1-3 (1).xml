@@ -1,6 +1,6 @@
 //This is for except tsunami and earthquake disaster (All other disaster type)
 //Extra.xml
-
+//H
 
 <Report xmlns="http://xml.kishou.go.jp/jmaxml1/" xmlns:jmx="http://xml.kishou.go.jp/jmaxml1/" xmlns:jmx_add="http://xml.kishou.go.jp/jmaxml1/addition1/">
 <Control>
@@ -7982,3 +7982,4 @@
 </Body>
 
 </Report>
+
