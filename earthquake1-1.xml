@@ -2,16 +2,16 @@
 <Report xmlns="http://xml.kishou.go.jp/jmaxml1/" xmlns:jmx="http://xml.kishou.go.jp/jmaxml1/">
   <Control>
     <Title>震源・震度に関する情報</Title>
-    <DateTime>2008-06-13T23:47:47Z</DateTime>
+    <DateTime>2026-06-13T23:47:47Z</DateTime>
     <Status>通常</Status>
     <EditorialOffice>気象庁本庁</EditorialOffice>
     <PublishingOffice>気象庁</PublishingOffice>
   </Control>
   <Head xmlns="http://xml.kishou.go.jp/jmaxml1/informationBasis1/">
     <Title>震源・震度情報</Title>
-    <ReportDateTime>2008-06-14T08:47:00+09:00</ReportDateTime>
-    <TargetDateTime>2008-06-14T08:47:00+09:00</TargetDateTime>
-    <EventID>20080614084350</EventID>
+    <ReportDateTime>2026-06-14T08:47:00+09:00</ReportDateTime>
+    <TargetDateTime>2026-06-14T08:47:00+09:00</TargetDateTime>
+    <EventID>20260614084350</EventID>
     <InfoType>発表</InfoType>
     <Serial>1</Serial>
     <InfoKind>地震情報</InfoKind>
