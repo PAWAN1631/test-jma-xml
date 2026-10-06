@@ -151,8 +151,8 @@
   </Head>
   <Body xmlns="http://xml.kishou.go.jp/jmaxml1/body/seismology1/" xmlns:jmx_eb="http://xml.kishou.go.jp/jmaxml1/elementBasis1/">
     <Earthquake>
-      <OriginTime>2008-06-14T08:43:00+09:00</OriginTime>
-      <ArrivalTime>2008-06-14T08:43:00+09:00</ArrivalTime>
+      <OriginTime>2026-06-14T08:43:00+09:00</OriginTime>
+      <ArrivalTime>2026-06-14T08:43:00+09:00</ArrivalTime>
       <Hypocenter>
         <Area>
           <Name>岩手県内陸南部</Name>
